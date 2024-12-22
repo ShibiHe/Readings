@@ -1,4 +1,15 @@
 # Readings
+
+“神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。因为　神差他的儿子降世，不是要定世人的罪（或作“审判世人”。下同），乃是要叫世人因他得救。信他的人，不被定罪；不信的人，罪已经定了，因为他不信　神独生子的名。光来到世间，世人因自己的行为是恶的，不爱光倒爱黑暗，定他们的罪就是在此。凡作恶的便恨光，并不来就光，恐怕他的行为受责备；但行真理的必来就光，要显明他所行的是靠　神而行。”(约翰福音 3:16-21 和合本)
+
+"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.
+Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.
+And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.
+For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed.
+But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God."(John 3:16-21 ESV)
+
+
 般若波羅蜜多心經
 
 觀自在菩薩。行深般若波羅蜜多時。照見五蘊皆空。度一切苦厄。舍利子。色不異空。空不異色。色即是空。空即是色。受想行識。亦復如是。舍利子。是諸法空相。不生不滅。不垢不淨。不增不減。是故空中無色。無受想行識。無眼耳鼻舌身意。無色聲香味觸法。無眼界。乃至無意識界。無無明。亦無無明盡。乃至無老死。亦無老死盡。無苦集滅道。無智亦無得。以無所得故。菩提薩埵。依般若波羅蜜多故。心無罣礙。無罣礙故。無有恐怖。遠離顛倒夢想。究竟涅槃。三世諸佛。依般若波羅蜜多故。得阿耨多羅三藐三菩提。故知般若波羅蜜多。是大神咒。是大明咒。是無上咒。是無等等咒。能除一切苦。真實不虛。故說般若波羅蜜多咒。即說咒曰，
