@@ -1,6 +1,9 @@
 
 **“Pi-Entropy” 模块** 的设计核心在于将 **区块链的不确定性（Entropy）** 与 **数学常数的确定性（π  Sequence）** 进行正交组合。
 
+1. 避免 chainlink vrf 的手续费
+2. 避免 commit-reveal 异步架构的繁琐
+
 以下是完整的计算逻辑封装，采用 Solidity 实现，并针对 Gas 效率和安全性进行了深度优化。
 
 ---
